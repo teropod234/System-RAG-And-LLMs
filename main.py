@@ -1,5 +1,7 @@
+from src.scripts.eda import eda
+
 def main():
-    print("Hello from test-rag!")
+    eda()
 
 
 if __name__ == "__main__":
