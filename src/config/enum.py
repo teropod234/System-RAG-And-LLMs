@@ -38,6 +38,7 @@ class DataCsv(Enum):
     AMAZON_GOOGLE = "amazon_google.csv"
     AMAZON_PRODUCT_CLEAN = "amazon_product_data_cleaned.csv"
     AMAZON_PRODUCT_SALES_CLEAN = "amazon_products_sales_data_cleaned.csv"
+    DATA_ELECTRONICS_PRODUCTS = "DatafinitiElectronicsProductData.csv"
 
     @property
     def path(self) -> Path:
