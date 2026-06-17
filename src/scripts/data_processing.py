@@ -1,3 +1,10 @@
+"""
+
+Data processing script for cleaning and preparing the Amazon sales dataset.
+
+uv run python src/scripts/data_processing.py
+"""
+
 from __future__ import annotations
 
 import sys

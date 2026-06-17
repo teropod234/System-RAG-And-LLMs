@@ -1,101 +1,101 @@
-Product_ID,Product_Name,Category,Price_USD,Rating,Review_Count,brand
-AZ1001,Power Bank Model-39,Audio,591.53,4.1,4399,Nvidia
-AZ1002,External SSD Model-20,Accessories,647.02,3.6,9779,Hp
-AZ1003,Smart Watch Model-72,Accessories,419.88,4.7,9704,Canon / Nikon
-AZ1004,Graphics Card Model-97,Electronics,214.91,4.8,6305,Samsung
-AZ1005,Mechanical Keyboard Model-53,Computers,1002.45,4.1,8880,Xiaomi
-AZ1006,USB-C Hub Model-94,Computers,638.88,4.4,2724,Microsoft
-AZ1007,External SSD Model-97,Audio,546.71,3.6,532,Xiaomi
-AZ1008,Smart Watch Model-25,Audio,856.78,4.1,8072,Sennheiser
-AZ1009,VR Headset Model-15,Electronics,97.64,4.0,7424,Apple
-AZ1010,Smart Watch Model-27,Audio,35.02,4.9,5453,Xiaomi
-AZ1011,Webcam Pro Model-75,Computers,724.8,3.6,7763,Asus
-AZ1012,Bluetooth Headphones Model-68,Audio,1283.4,4.3,634,Microsoft
-AZ1013,Gaming Laptop Model-83,Audio,1386.96,3.9,991,Oneplus
-AZ1014,Power Bank Model-58,Audio,321.92,4.9,7059,Apple
-AZ1015,External SSD Model-90,Audio,23.23,3.6,2853,Corsair
-AZ1016,Tablet Model-67,Electronics,1130.81,4.5,7707,Google
-AZ1017,Gaming Laptop Model-24,Accessories,1007.39,3.8,2840,Dell
-AZ1018,Mechanical Keyboard Model-82,Computers,463.13,4.1,2342,Corsair
-AZ1019,Tablet Model-38,Audio,1016.29,3.8,522,Oneplus
-AZ1020,Smart Watch Model-60,Audio,367.08,4.4,1732,Msi
-AZ1021,Gaming Laptop Model-71,Audio,883.6,4.1,8707,Nvidia
-AZ1022,Gaming Laptop Model-26,Electronics,506.59,4.9,9645,Asus
-AZ1023,Mechanical Keyboard Model-30,Electronics,610.52,3.7,8720,Hp
-AZ1024,External SSD Model-31,Computers,1036.06,4.0,4053,Dell
-AZ1025,External SSD Model-31,Electronics,1308.24,4.3,6475,Oneplus
-AZ1026,Gaming Laptop Model-91,Accessories,1095.55,4.1,2973,Canon / Nikon
-AZ1027,Tablet Model-69,Audio,812.22,5.0,1609,Corsair
-AZ1028,External SSD Model-32,Accessories,1071.24,4.2,5188,Hp
-AZ1029,4K Monitor Model-45,Accessories,1186.77,4.5,2765,Hp
-AZ1030,Webcam Pro Model-24,Computers,545.92,3.8,7510,Sennheiser
-AZ1031,4K Monitor Model-88,Electronics,1258.81,4.5,5306,Google
-AZ1032,Bluetooth Headphones Model-32,Computers,1143.05,4.0,8112,Canon / Nikon
-AZ1033,Tablet Model-60,Audio,1179.84,5.0,4108,Lenovo
-AZ1034,Wireless Mouse Model-92,Audio,1351.4,4.1,1363,Sennheiser
-AZ1035,USB-C Hub Model-10,Accessories,784.8,4.8,9953,Google
-AZ1036,Mechanical Keyboard Model-60,Accessories,1355.31,4.3,4113,Microsoft
-AZ1037,External SSD Model-49,Computers,1034.72,3.7,6682,Microsoft
-AZ1038,Wireless Mouse Model-77,Computers,287.46,4.1,3128,Dell
-AZ1039,Mechanical Keyboard Model-54,Accessories,1051.98,5.0,3193,Xiaomi
-AZ1040,Mechanical Keyboard Model-74,Accessories,559.69,4.3,3337,Hp
-AZ1041,Bluetooth Headphones Model-44,Computers,668.53,4.8,3882,Microsoft
-AZ1042,4K Monitor Model-40,Electronics,1187.06,3.8,5426,Oneplus
-AZ1043,Power Bank Model-74,Accessories,1431.11,4.5,1288,Hp
-AZ1044,Power Bank Model-30,Computers,611.24,4.1,3138,Intel
-AZ1045,External SSD Model-89,Audio,315.62,3.8,397,Apple
-AZ1046,Smart Watch Model-75,Accessories,375.18,4.9,8672,Sennheiser
-AZ1047,Mechanical Keyboard Model-60,Electronics,641.42,4.6,8722,Xiaomi
-AZ1048,External SSD Model-43,Accessories,1171.64,3.9,5148,Lenovo
-AZ1049,USB-C Hub Model-16,Electronics,307.6,4.5,7877,Bose
-AZ1050,Tablet Model-79,Accessories,1181.19,4.5,1521,Microsoft
-AZ1051,Graphics Card Model-39,Computers,1392.17,4.8,6300,Dell
-AZ1052,Wireless Mouse Model-32,Accessories,701.44,4.2,5797,Apple
-AZ1053,VR Headset Model-61,Electronics,1282.84,4.2,4880,Lenovo
-AZ1054,USB-C Hub Model-11,Computers,713.03,4.8,2492,Sony
-AZ1055,Wireless Mouse Model-41,Accessories,1242.77,4.3,803,Sennheiser
-AZ1056,Graphics Card Model-47,Electronics,442.34,4.5,6148,Msi
-AZ1057,External SSD Model-93,Accessories,491.09,4.6,2201,Oneplus
-AZ1058,Bluetooth Headphones Model-95,Accessories,618.6,3.5,4388,Google
-AZ1059,External SSD Model-96,Computers,962.65,3.8,1206,Intel
-AZ1060,4K Monitor Model-76,Computers,1353.02,4.5,5283,Sony
-AZ1061,4K Monitor Model-43,Audio,40.38,3.7,4057,Sony
-AZ1062,Webcam Pro Model-84,Electronics,613.87,3.6,8021,Canon / Nikon
-AZ1063,External SSD Model-79,Accessories,144.71,4.8,1612,Bose
-AZ1064,Mechanical Keyboard Model-35,Electronics,100.52,4.5,6436,Bose
-AZ1065,USB-C Hub Model-56,Electronics,1111.72,4.0,2210,Sony
-AZ1066,Graphics Card Model-56,Accessories,687.33,4.9,1547,Bose
-AZ1067,USB-C Hub Model-38,Computers,284.99,4.1,5710,Asus
-AZ1068,USB-C Hub Model-89,Audio,1016.97,4.9,8651,Hp
-AZ1069,Gaming Laptop Model-17,Electronics,456.99,3.7,266,Lenovo
-AZ1070,Mechanical Keyboard Model-47,Accessories,631.22,4.6,3713,Lenovo
-AZ1071,Webcam Pro Model-63,Accessories,590.68,4.9,3968,Msi
-AZ1072,Mechanical Keyboard Model-83,Audio,1243.22,4.1,4667,Intel
-AZ1073,VR Headset Model-32,Accessories,919.03,4.0,6712,Adobe
-AZ1074,Wireless Mouse Model-35,Accessories,155.5,4.7,3422,Google
-AZ1075,Wireless Mouse Model-76,Computers,904.54,4.4,8382,Sony
-AZ1076,Mechanical Keyboard Model-87,Computers,1296.17,4.1,7984,Asus
-AZ1077,VR Headset Model-24,Audio,1233.49,4.1,7205,Msi
-AZ1078,VR Headset Model-19,Electronics,338.22,4.0,5428,Microsoft
-AZ1079,External SSD Model-96,Electronics,383.39,4.9,4381,Canon / Nikon
-AZ1080,External SSD Model-82,Audio,994.65,4.8,4217,Dell
-AZ1081,Smart Watch Model-24,Electronics,198.42,4.4,286,Samsung
-AZ1082,Wireless Mouse Model-83,Audio,610.6,4.8,3825,Adobe
-AZ1083,Power Bank Model-33,Accessories,150.3,3.6,4786,Corsair
-AZ1084,Webcam Pro Model-18,Electronics,149.62,4.6,9704,Microsoft
-AZ1085,External SSD Model-77,Audio,456.31,4.6,8947,Apple
-AZ1086,Wireless Mouse Model-51,Audio,341.2,4.3,7270,Canon / Nikon
-AZ1087,Smart Watch Model-14,Accessories,1112.87,4.0,7517,Google
-AZ1088,External SSD Model-32,Accessories,1263.86,4.5,278,Msi
-AZ1089,4K Monitor Model-23,Electronics,66.98,4.0,1020,Google
-AZ1090,Bluetooth Headphones Model-56,Accessories,1476.8,3.6,2246,Apple
-AZ1091,Mechanical Keyboard Model-57,Electronics,1143.35,3.6,5468,Lenovo
-AZ1092,Mechanical Keyboard Model-79,Audio,690.69,4.7,4527,Oneplus
-AZ1093,Tablet Model-24,Computers,431.52,5.0,8832,Google
-AZ1094,Power Bank Model-66,Audio,118.54,3.9,6373,Sennheiser
-AZ1095,Gaming Laptop Model-83,Audio,1163.29,4.9,4301,Apple
-AZ1096,USB-C Hub Model-39,Accessories,441.43,4.9,2072,Bose
-AZ1097,Webcam Pro Model-65,Computers,188.85,3.8,2074,Asus
-AZ1098,USB-C Hub Model-83,Audio,47.43,3.6,3840,Nvidia
-AZ1099,External SSD Model-31,Computers,1040.16,4.4,7714,Intel
-AZ1100,4K Monitor Model-49,Electronics,727.54,4.7,3528,Canon / Nikon
+Product_ID,Product_Name,Category,Price_USD,Rating,Review_Count,brand,review_author,short_review,is_recommended
+AZ1001,Power Bank Model-39,Audio,591.53,4.1,4399,Adobe,Ana Ortega,"Sin problemas hasta ahora, muy contento con la compra.",1
+AZ1002,External SSD Model-20,Accessories,647.02,3.6,9779,Samsung,Andrés López,"Ideal para lo que necesitaba, totalmente recomendable.",1
+AZ1003,Smart Watch Model-72,Accessories,419.88,4.7,9704,Google,Pablo Torres,"Excelente compra, volvería a elegirlo.",1
+AZ1004,Graphics Card Model-97,Electronics,214.91,4.8,6305,Sennheiser,Pablo Martínez,Funciona perfectamente para uso diario.,1
+AZ1005,Mechanical Keyboard Model-53,Computers,1002.45,4.1,8880,Sennheiser,Raúl Flores,"Superó mis expectativas, muy satisfecho.",1
+AZ1006,USB-C Hub Model-94,Computers,638.88,4.4,2724,Dell,María Pérez,Cumple lo que promete y llegó en buen estado.,1
+AZ1007,External SSD Model-97,Audio,546.71,3.6,532,Adobe,Jorge Ramírez,"Excelente compra, volvería a elegirlo.",1
+AZ1008,Smart Watch Model-25,Audio,856.78,4.1,8072,Xiaomi,Iván Flores,Cumple lo que promete y llegó en buen estado.,1
+AZ1009,VR Headset Model-15,Electronics,97.64,4.0,7424,Hp,Rosa Vega,"Sin problemas hasta ahora, muy contento con la compra.",1
+AZ1010,Smart Watch Model-27,Audio,35.02,4.9,5453,Adobe,Pablo Martínez,Buen rendimiento y acabados de calidad.,1
+AZ1011,Webcam Pro Model-75,Computers,724.8,3.6,7763,Sony,Isabel Ortega,"Ideal para lo que necesitaba, totalmente recomendable.",1
+AZ1012,Bluetooth Headphones Model-68,Audio,1283.4,4.3,634,Asus,Marcos Sánchez,"Ideal para lo que necesitaba, totalmente recomendable.",1
+AZ1013,Gaming Laptop Model-83,Audio,1386.96,3.9,991,Xiaomi,Jorge García,"Sin problemas hasta ahora, muy contento con la compra.",1
+AZ1014,Power Bank Model-58,Audio,321.92,4.9,7059,Samsung,Carlos Torres,"Muy buena relación calidad-precio, lo recomiendo.",1
+AZ1015,External SSD Model-90,Audio,23.23,3.6,2853,Xiaomi,Andrés González,"Sin problemas hasta ahora, muy contento con la compra.",1
+AZ1016,Tablet Model-67,Electronics,1130.81,4.5,7707,Samsung,Pablo Castro,"Muy buena relación calidad-precio, lo recomiendo.",1
+AZ1017,Gaming Laptop Model-24,Accessories,1007.39,3.8,2840,Bose,Diego Castro,Funciona perfectamente para uso diario.,1
+AZ1018,Mechanical Keyboard Model-82,Computers,463.13,4.1,2342,Apple,Marcos Pérez,"Superó mis expectativas, muy satisfecho.",1
+AZ1019,Tablet Model-38,Audio,1016.29,3.8,522,Msi,Elena Molina,"Excelente compra, volvería a elegirlo.",1
+AZ1020,Smart Watch Model-60,Audio,367.08,4.4,1732,Sennheiser,Raúl Pérez,Cumple lo que promete y llegó en buen estado.,1
+AZ1021,Gaming Laptop Model-71,Audio,883.6,4.1,8707,Bose,Isabel Fernández,Cumple lo que promete y llegó en buen estado.,1
+AZ1022,Gaming Laptop Model-26,Electronics,506.59,4.9,9645,Canon / Nikon,Óscar Sánchez,"Ideal para lo que necesitaba, totalmente recomendable.",1
+AZ1023,Mechanical Keyboard Model-30,Electronics,610.52,3.7,8720,Hp,Marcos Molina,"Excelente compra, volvería a elegirlo.",1
+AZ1024,External SSD Model-31,Computers,1036.06,4.0,4053,Lenovo,Elena López,"Excelente compra, volvería a elegirlo.",1
+AZ1025,External SSD Model-31,Electronics,1308.24,4.3,6475,Samsung,Carmen García,"Sin problemas hasta ahora, muy contento con la compra.",1
+AZ1026,Gaming Laptop Model-91,Accessories,1095.55,4.1,2973,Google,Pablo Rodríguez,Cumple lo que promete y llegó en buen estado.,1
+AZ1027,Tablet Model-69,Audio,812.22,5.0,1609,Canon / Nikon,Marcos Molina,"Sin problemas hasta ahora, muy contento con la compra.",1
+AZ1028,External SSD Model-32,Accessories,1071.24,4.2,5188,Msi,Carlos Ortega,"Sin problemas hasta ahora, muy contento con la compra.",1
+AZ1029,4K Monitor Model-45,Accessories,1186.77,4.5,2765,Sony,María Vega,"Superó mis expectativas, muy satisfecho.",1
+AZ1030,Webcam Pro Model-24,Computers,545.92,3.8,7510,Sennheiser,Patricia Ortega,Cumple lo que promete y llegó en buen estado.,1
+AZ1031,4K Monitor Model-88,Electronics,1258.81,4.5,5306,Sennheiser,Jorge Ortega,Cumple lo que promete y llegó en buen estado.,1
+AZ1032,Bluetooth Headphones Model-32,Computers,1143.05,4.0,8112,Nvidia,María Fernández,"Excelente compra, volvería a elegirlo.",1
+AZ1033,Tablet Model-60,Audio,1179.84,5.0,4108,Adobe,Diego Pérez,"Superó mis expectativas, muy satisfecho.",1
+AZ1034,Wireless Mouse Model-92,Audio,1351.4,4.1,1363,Sony,Ana Vega,Cumple lo que promete y llegó en buen estado.,1
+AZ1035,USB-C Hub Model-10,Accessories,784.8,4.8,9953,Dell,Sofía Ramírez,Funciona perfectamente para uso diario.,1
+AZ1036,Mechanical Keyboard Model-60,Accessories,1355.31,4.3,4113,Adobe,Miguel González,"Muy buena relación calidad-precio, lo recomiendo.",1
+AZ1037,External SSD Model-49,Computers,1034.72,3.7,6682,Dell,Óscar Martínez,"Superó mis expectativas, muy satisfecho.",1
+AZ1038,Wireless Mouse Model-77,Computers,287.46,4.1,3128,Msi,Iván Vega,"Muy buena relación calidad-precio, lo recomiendo.",1
+AZ1039,Mechanical Keyboard Model-54,Accessories,1051.98,5.0,3193,Intel,Miguel Sánchez,Buen rendimiento y acabados de calidad.,1
+AZ1040,Mechanical Keyboard Model-74,Accessories,559.69,4.3,3337,Google,Ana Molina,"Muy buena relación calidad-precio, lo recomiendo.",1
+AZ1041,Bluetooth Headphones Model-44,Computers,668.53,4.8,3882,Hp,Rosa Sánchez,Cumple lo que promete y llegó en buen estado.,1
+AZ1042,4K Monitor Model-40,Electronics,1187.06,3.8,5426,Samsung,Ana Martínez,Cumple lo que promete y llegó en buen estado.,1
+AZ1043,Power Bank Model-74,Accessories,1431.11,4.5,1288,Xiaomi,Luis Castro,"Ideal para lo que necesitaba, totalmente recomendable.",1
+AZ1044,Power Bank Model-30,Computers,611.24,4.1,3138,Corsair,Óscar López,"Muy buena relación calidad-precio, lo recomiendo.",1
+AZ1045,External SSD Model-89,Audio,315.62,3.8,397,Adobe,Iván López,Funciona perfectamente para uso diario.,1
+AZ1046,Smart Watch Model-75,Accessories,375.18,4.9,8672,Asus,Sofía Torres,"Superó mis expectativas, muy satisfecho.",1
+AZ1047,Mechanical Keyboard Model-60,Electronics,641.42,4.6,8722,Sennheiser,Iván Ortega,"Superó mis expectativas, muy satisfecho.",1
+AZ1048,External SSD Model-43,Accessories,1171.64,3.9,5148,Dell,Luis López,Buen rendimiento y acabados de calidad.,1
+AZ1049,USB-C Hub Model-16,Electronics,307.6,4.5,7877,Google,Laura Pérez,La experiencia de uso no ha sido la mejor.,0
+AZ1050,Tablet Model-79,Accessories,1181.19,4.5,1521,Samsung,Marcos Vega,Funciona perfectamente para uso diario.,1
+AZ1051,Graphics Card Model-39,Computers,1392.17,4.8,6300,Samsung,Pablo Molina,"Ideal para lo que necesitaba, totalmente recomendable.",1
+AZ1052,Wireless Mouse Model-32,Accessories,701.44,4.2,5797,Hp,Diego Fernández,"Excelente compra, volvería a elegirlo.",1
+AZ1053,VR Headset Model-61,Electronics,1282.84,4.2,4880,Corsair,Lucía López,No repetiría la compra en este caso.,0
+AZ1054,USB-C Hub Model-11,Computers,713.03,4.8,2492,Sennheiser,Rosa García,"Superó mis expectativas, muy satisfecho.",1
+AZ1055,Wireless Mouse Model-41,Accessories,1242.77,4.3,803,Bose,Elena Sánchez,Buen rendimiento y acabados de calidad.,1
+AZ1056,Graphics Card Model-47,Electronics,442.34,4.5,6148,Microsoft,Laura Martínez,"Sin problemas hasta ahora, muy contento con la compra.",1
+AZ1057,External SSD Model-93,Accessories,491.09,4.6,2201,Sony,Ana Flores,"Ideal para lo que necesitaba, totalmente recomendable.",1
+AZ1058,Bluetooth Headphones Model-95,Accessories,618.6,3.5,4388,Apple,Marcos Martínez,"Ideal para lo que necesitaba, totalmente recomendable.",1
+AZ1059,External SSD Model-96,Computers,962.65,3.8,1206,Samsung,Pablo Fernández,"Superó mis expectativas, muy satisfecho.",1
+AZ1060,4K Monitor Model-76,Computers,1353.02,4.5,5283,Google,Rosa Flores,"Muy buena relación calidad-precio, lo recomiendo.",1
+AZ1061,4K Monitor Model-43,Audio,40.38,3.7,4057,Lenovo,Claudia Torres,Funciona perfectamente para uso diario.,1
+AZ1062,Webcam Pro Model-84,Electronics,613.87,3.6,8021,Samsung,Lucía López,Cumple lo que promete y llegó en buen estado.,1
+AZ1063,External SSD Model-79,Accessories,144.71,4.8,1612,Corsair,Patricia Castro,"Sin problemas hasta ahora, muy contento con la compra.",1
+AZ1064,Mechanical Keyboard Model-35,Electronics,100.52,4.5,6436,Asus,Ana Flores,Cumple lo que promete y llegó en buen estado.,1
+AZ1065,USB-C Hub Model-56,Electronics,1111.72,4.0,2210,Canon / Nikon,María Vega,Cumple lo que promete y llegó en buen estado.,1
+AZ1066,Graphics Card Model-56,Accessories,687.33,4.9,1547,Corsair,Héctor Martínez,Cumple lo que promete y llegó en buen estado.,1
+AZ1067,USB-C Hub Model-38,Computers,284.99,4.1,5710,Lenovo,Lucía Martínez,Buen rendimiento y acabados de calidad.,1
+AZ1068,USB-C Hub Model-89,Audio,1016.97,4.9,8651,Canon / Nikon,Andrés Ortega,"Superó mis expectativas, muy satisfecho.",1
+AZ1069,Gaming Laptop Model-17,Electronics,456.99,3.7,266,Adobe,Luis González,"Sin problemas hasta ahora, muy contento con la compra.",1
+AZ1070,Mechanical Keyboard Model-47,Accessories,631.22,4.6,3713,Sennheiser,Marcos Pérez,Funciona perfectamente para uso diario.,1
+AZ1071,Webcam Pro Model-63,Accessories,590.68,4.9,3968,Msi,Carlos Fernández,"Excelente compra, volvería a elegirlo.",1
+AZ1072,Mechanical Keyboard Model-83,Audio,1243.22,4.1,4667,Hp,Carmen Ramírez,"Muy buena relación calidad-precio, lo recomiendo.",1
+AZ1073,VR Headset Model-32,Accessories,919.03,4.0,6712,Sennheiser,Pablo Molina,"Muy buena relación calidad-precio, lo recomiendo.",1
+AZ1074,Wireless Mouse Model-35,Accessories,155.5,4.7,3422,Apple,Carmen Pérez,"Excelente compra, volvería a elegirlo.",1
+AZ1075,Wireless Mouse Model-76,Computers,904.54,4.4,8382,Xiaomi,Marcos Ortega,"Sin problemas hasta ahora, muy contento con la compra.",1
+AZ1076,Mechanical Keyboard Model-87,Computers,1296.17,4.1,7984,Bose,Diego García,"Superó mis expectativas, muy satisfecho.",1
+AZ1077,VR Headset Model-24,Audio,1233.49,4.1,7205,Corsair,Isabel Torres,"Sin problemas hasta ahora, muy contento con la compra.",1
+AZ1078,VR Headset Model-19,Electronics,338.22,4.0,5428,Nvidia,Carlos Ramírez,"Muy buena relación calidad-precio, lo recomiendo.",1
+AZ1079,External SSD Model-96,Electronics,383.39,4.9,4381,Sony,Patricia Martínez,"Muy buena relación calidad-precio, lo recomiendo.",1
+AZ1080,External SSD Model-82,Audio,994.65,4.8,4217,Google,Iván López,"Ideal para lo que necesitaba, totalmente recomendable.",1
+AZ1081,Smart Watch Model-24,Electronics,198.42,4.4,286,Lenovo,Iván Rodríguez,"No cumple del todo lo esperado, regular.",0
+AZ1082,Wireless Mouse Model-83,Audio,610.6,4.8,3825,Sennheiser,Ana Molina,"Muy buena relación calidad-precio, lo recomiendo.",1
+AZ1083,Power Bank Model-33,Accessories,150.3,3.6,4786,Hp,Carlos Torres,Funciona perfectamente para uso diario.,1
+AZ1084,Webcam Pro Model-18,Electronics,149.62,4.6,9704,Msi,Elena Ortega,"Sin problemas hasta ahora, muy contento con la compra.",1
+AZ1085,External SSD Model-77,Audio,456.31,4.6,8947,Oneplus,Iván Castro,Buen rendimiento y acabados de calidad.,1
+AZ1086,Wireless Mouse Model-51,Audio,341.2,4.3,7270,Xiaomi,Lucía Fernández,"No cumple del todo lo esperado, regular.",0
+AZ1087,Smart Watch Model-14,Accessories,1112.87,4.0,7517,Adobe,Raúl Vega,"Ideal para lo que necesitaba, totalmente recomendable.",1
+AZ1088,External SSD Model-32,Accessories,1263.86,4.5,278,Intel,Patricia García,"Ideal para lo que necesitaba, totalmente recomendable.",1
+AZ1089,4K Monitor Model-23,Electronics,66.98,4.0,1020,Samsung,Raúl Martínez,"Ideal para lo que necesitaba, totalmente recomendable.",1
+AZ1090,Bluetooth Headphones Model-56,Accessories,1476.8,3.6,2246,Msi,Laura Castro,"Sin problemas hasta ahora, muy contento con la compra.",1
+AZ1091,Mechanical Keyboard Model-57,Electronics,1143.35,3.6,5468,Sennheiser,Laura Vega,Cumple lo que promete y llegó en buen estado.,1
+AZ1092,Mechanical Keyboard Model-79,Audio,690.69,4.7,4527,Msi,Diego Sánchez,No repetiría la compra en este caso.,0
+AZ1093,Tablet Model-24,Computers,431.52,5.0,8832,Msi,Sofía Fernández,"Excelente compra, volvería a elegirlo.",1
+AZ1094,Power Bank Model-66,Audio,118.54,3.9,6373,Canon / Nikon,Claudia Ramírez,"Ideal para lo que necesitaba, totalmente recomendable.",1
+AZ1095,Gaming Laptop Model-83,Audio,1163.29,4.9,4301,Lenovo,Rosa Ortega,"Superó mis expectativas, muy satisfecho.",1
+AZ1096,USB-C Hub Model-39,Accessories,441.43,4.9,2072,Intel,Claudia Ramírez,"Ideal para lo que necesitaba, totalmente recomendable.",1
+AZ1097,Webcam Pro Model-65,Computers,188.85,3.8,2074,Nvidia,Laura Rodríguez,Buen rendimiento y acabados de calidad.,1
+AZ1098,USB-C Hub Model-83,Audio,47.43,3.6,3840,Google,María González,Buen rendimiento y acabados de calidad.,1
+AZ1099,External SSD Model-31,Computers,1040.16,4.4,7714,Google,Rosa Rodríguez,"Superó mis expectativas, muy satisfecho.",1
+AZ1100,4K Monitor Model-49,Electronics,727.54,4.7,3528,Apple,María Ramírez,"Ideal para lo que necesitaba, totalmente recomendable.",1
