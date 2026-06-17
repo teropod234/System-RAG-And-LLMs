@@ -1,5 +1,5 @@
 """
-EDA en Streamlit: un bloque por CSV (rutas desde `src.config.enum`).
+EDA en Streamlit: un bloque por CSV (rutas desde `src.config.paths`).
 
 Ejecutar desde la raíz del repo:
     uv run streamlit run src/scripts/eda.py
@@ -20,7 +20,7 @@ import pandas as pd
 import seaborn as sns
 import streamlit as st
 
-from src.config.enum import DataCsv, list_raw_csv_paths, raw_data_dir
+from src.config.paths import list_clean_csv_paths, raw_data_dir_clean
 
 sns.set_theme(style="whitegrid")
 
@@ -159,16 +159,14 @@ def _render_one_csv(path: Path) -> None:
 def main() -> None:
     st.set_page_config(page_title="EDA — InsightMarket", layout="wide")
     st.title("EDA por CSV")
-    st.caption(f"Carpeta de datos: `{raw_data_dir()}`")
+    st.caption(f"Carpeta de datos: `{raw_data_dir_clean()}`")
 
-    paths_enum = [m.path for m in DataCsv if m.exists()]
-    paths_extra = [p for p in list_raw_csv_paths() if p not in paths_enum]
-    paths = paths_enum + paths_extra
+    paths = list_clean_csv_paths()
 
     if not paths:
         st.warning(
-            "No hay ningún `.csv` en la carpeta raw. Coloca los ficheros en "
-            f"`{raw_data_dir()}` o revisa los nombres en `DataCsv`."
+            "No hay ningún `.csv` en la carpeta clean. Ejecuta primero el procesado, p. ej.:\n\n"
+            "`uv run python src/scripts/data_processing.py`"
         )
         return
 
