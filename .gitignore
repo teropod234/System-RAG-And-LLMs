@@ -1,2 +1,3 @@
 .env
 src/model/chroma_db/
+prompt.md
